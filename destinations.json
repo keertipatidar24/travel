@@ -1,0 +1,408 @@
+[   
+    {
+    "city": "Uttar Pradesh",
+    "attraction_places": [
+        {"name": "Taj Mahal", "image": "https://media.istockphoto.com/id/519330110/photo/taj-mahal-agra-india-monument-of-love-in-blue-sky.jpg?s=612x612&w=0&k=20&c=Uma6Q7KduznA6jUKcSquFP1iHHiw8UXcZEYVLONrmaQ="},
+        {"name": "Varanasi Ghats", "image": "https://media.istockphoto.com/id/658871478/photo/ghats-on-the-ganges-river.jpg?s=612x612&w=0&k=20&c=nqv7AjxLAtNVZyUUw7MkXOMuJ4NRkGEw1LlYBVOb0dE="},
+        {"name": "Fatehpur Sikri", "image": "https://media.istockphoto.com/id/1160438275/photo/buland-darwaza-medieval-architecture-gateway-at-fatehpur-sikri-agra-with-view-of-decorated.jpg?s=612x612&w=0&k=20&c=x1lkYKlm5xA2wALPx60WfJO45hUxu5E4fUy24in6FZo="}
+    ],
+    "activities": [
+        "Exploring historical monuments",
+        "Boating in River Ganges",
+        "Visiting religious sites"
+    ],
+    "prices": [1500],
+    "favorable_season": "Winter",
+    "best_duration_of_tour": "4-5 days",
+    "cost_to_travel": "4000-8000",
+    "hotels": [
+        {"name": "Oberoi Amarvilas", "image": "https://media.istockphoto.com/id/893522700/photo/sultan-abdul-samad-building-kuala-lumpur.jpg?s=612x612&w=0&k=20&c=oo8yH4SRARclvnq8VrJKkfa-0B281_fe-qwaqke48Go="},
+        {"name": "Taj Ganges", "image": "https://media.istockphoto.com/id/907076702/photo/luxury-hotels-on-the-bank-of-a-lake.jpg?s=612x612&w=0&k=20&c=PoSn5RgJe_SDdLxvApymMIrHzvPjh28D9LJpRjlSndM="},
+        {"name": "Hotel Clarks Shiraz", "image": "https://media.istockphoto.com/id/179450582/photo/hotel-carrasco-in-close-up.jpg?s=612x612&w=0&k=20&c=JeynRumXNBtpz4UowqWg7b-Kr3ZecK48xD6Rpvu_bX4="}
+    ],
+    "image": "https://media.istockphoto.com/id/658635130/photo/noida-cityscape-at-night.jpg?s=612x612&w=0&k=20&c=T7PESZyED9XLJNznANMiVtm9d8_pgMgfIbLoa3H3Txk="
+    },
+    {
+        "city": "Maharashtra",
+        "attraction_places": [
+            {"name": "Ajanta and Ellora Caves", "image": "https://media.istockphoto.com/id/470586352/photo/kailas-temple-ellora.jpg?s=612x612&w=0&k=20&c=ld95eeyLHKbjCpmD61L6x5TAyRrsdqiRc0i8Cig2aB0="},
+            {"name": "Shirdi", "image": "https://media.istockphoto.com/id/516916693/photo/shirdi-saibaba-temple-shirdi-maharashtra-india.jpg?s=612x612&w=0&k=20&c=bFpV3TqmOAz_FZFK01zzpjYY5V87F_ykM3rbkHjCWUQ="},
+            {"name": "Lonavala", "image": "https://media.istockphoto.com/id/1138679697/photo/rural-view-over-lonavala.jpg?s=612x612&w=0&k=20&c=ZIc5eHsmX26LyWVeyQTPSwTqWM3XhPQoWs7jYbTQ4Js="}
+        ],
+        "activities": [
+            "Trekking in the Sahyadris",
+            "Pilgrimage visits",
+            "Exploring heritage sites"
+        ],
+        "prices": [1800],
+        "favorable_season": "Winter,Monsoon",
+        "best_duration_of_tour": "3-4 days",
+        "cost_to_travel": "1000-4000",
+        "hotels": [
+            {"name": "The Ritz-Carlton Pune", "image": "https://media.istockphoto.com/id/1143672857/photo/piccadilly-circus-regent-street-with-closeup-of-sign-entrance-to-the-ritz-hotel.jpg?s=612x612&w=0&k=20&c=laXXXLPjVXCzdDdeyucYg1EXlA45UyD-gEyIF7hiHbQ="},
+            {"name": "Vivanta by Taj Aurangabad", "image": "https://media.istockphoto.com/id/1477131383/photo/bibi-ka-maqbara-night-view.jpg?s=612x612&w=0&k=20&c=VA3eGZDf0BfvyvBvKvrxQXdhSV3pEFvwjxn5fZUBWl4="},
+            {"name": "Le Meridien Mahabaleshwar", "image": "https://media.istockphoto.com/id/835833886/photo/natural-hill-view.jpg?s=612x612&w=0&k=20&c=lH7ZtSnJwJQdM6-LtD1OEX5Ovdc0gft_a-XrkA54BHg="}
+        ],
+        "image": "https://media.istockphoto.com/id/1484880053/vector/calligraphy-in-hindi-marathi-jai-maharashtra-which-translates-as-maharashtra-day-fort-and.jpg?s=612x612&w=0&k=20&c=4BTEpx_Cqhox1Bauh9EjFD17MCFKlGayT7x8eKpRKRc="
+    },
+    {
+        "city": "Madhya Pradesh",
+        "attraction_places": [
+            {"name": "Khajuraho Temples", "image": "https://media.istockphoto.com/id/508628776/photo/sunset-over-kandariya-mahadeva-temple.jpg?s=612x612&w=0&k=20&c=YOpVZmLiY4ccl_aoWRJhfqLpNEDgjyOGuTAKbobCO-U="},
+            {"name": "Maheshwar", "image": "https://media.istockphoto.com/id/468534440/photo/people-walking-in-front-of-maheshwar-palace-on-india.jpg?s=612x612&w=0&k=20&c=k4VFriZx9dwNgxjuK8jb_-E9BwSAEn9qG4GQbUm3sG0="},
+            {"name": "Sanchi Stupa", "image": "https://media.istockphoto.com/id/519472109/photo/great-stupa-sanchi-madhya-pradesh-india.jpg?s=612x612&w=0&k=20&c=uhJUJk28O91g8u8f4N5F-uNTuYiBOEXOOoFtg18bujc="}
+        ],
+        "activities": [
+            "Exploring wildlife",
+            "Visiting UNESCO heritage sites",
+            "Cultural tours"
+        ],
+        "prices": [1600],
+        "favorable_season": "Winter, Autumn",
+        "best_duration_of_tour": "5-6 days",
+        "cost_to_travel": "1000-5000",
+        "hotels": [
+            {"name": "Jehan Numa Palace", "image": "https://media.istockphoto.com/id/1177586924/photo/buddhist-temple-golden-abode-of-buddha-shakyamuni-in-elista-republic-of-kalmykia-russia.jpg?s=612x612&w=0&k=20&c=F4w-fwIKXffCuh0lHT7B9SGZcMf-6COjHoab2R3MLSc="},
+            {"name": "Radisson Jass Khajuraho", "image": "https://media.istockphoto.com/id/503258597/photo/the-temple-city-of-khajuraho-in-india.jpg?s=612x612&w=0&k=20&c=PcCzvYz8agjCy-gWT0jCs7So_9XFh3tMu6vMpXRDGNc="},
+            {"name": "Taj Usha Kiran Palace", "image": "https://media.istockphoto.com/id/1235437795/photo/tomb-of-itimad-ud-daulah-in-agra-uttar-pradesh-india.jpg?s=612x612&w=0&k=20&c=cJqDhMtezyWfuNJ7yhT2zdh9Xoz_xq5W4KvekjY725I="}
+        ],
+        "image": "https://media.istockphoto.com/id/1036808920/photo/omkareshwar-cityscape-india-sacred-hindu-temple-holy-narmada-river-boats-floating-travel.jpg?s=612x612&w=0&k=20&c=XOa5QJgjS7iOrCTCY9MPdDTAzDZCBhB7mMJ_kdY917w="
+    },
+    {
+        "city": "Gujarat",
+        "attraction_places": [
+            {"name": "Statue of Unity", "image": "https://media.istockphoto.com/id/1447077014/photo/panoramic-shot-of-the-statue-of-unity-under-a-blue-sky-at-daytime-in-gujarat-india.jpg?s=612x612&w=0&k=20&c=Ik_f9nKc4jHWeH8HPFrx21Ogg_CmPFNvNlhJWdcyl7E="},
+            {"name": "Gir National Park", "image": "https://media.istockphoto.com/id/460509305/photo/asiatic-lion-pride.jpg?s=612x612&w=0&k=20&c=u5dbMH-JPsL6iI73MoiG4Nxneb3n2JakC5VBn4OCDJ4="},
+            {"name": "Somnath Temple", "image": "https://media.istockphoto.com/id/1288833179/photo/somnath-temple.jpg?s=612x612&w=0&k=20&c=oKOyqzu6ejFlwcQ-I_jnaotihChvedk9KK3MeRRSG54="}
+        ],
+        "activities": [
+            "Lion safari at Gir",
+            "Exploring the Rann of Kutch",
+            "Cultural heritage tours"
+        ],
+        "prices": [1900],
+        "favorable_season": "Winter,Spring",
+        "best_duration_of_tour": "4-5 days",
+        "cost_to_travel": "5000-10000",
+        "hotels": [
+            {"name": "The Fern Gir Resort", "image": "https://media.istockphoto.com/id/182677207/photo/goa-resort.jpg?s=612x612&w=0&k=20&c=KdDB1KjntBJhKoWI_KHONVqEF-1Wjx3ykqU3IMKWu40="},
+            {"name": "Taj Gateway Hotel Gir", "image": "https://media.istockphoto.com/id/1235437795/photo/tomb-of-itimad-ud-daulah-in-agra-uttar-pradesh-india.jpg?s=612x612&w=0&k=20&c=cJqDhMtezyWfuNJ7yhT2zdh9Xoz_xq5W4KvekjY725I="},
+            {"name": "Hyatt Regency Ahmedabad", "image": "https://media.istockphoto.com/id/1367249419/photo/hyatt-regency-hotel-building-on-international-dr-in-orlando-fl-usa.jpg?s=612x612&w=0&k=20&c=PAdMXZuEbI9TsimmVa_9Ki_eIx4Qc6Yv6Gcqyz9q4ho="}
+        ],
+        "image": "https://media.istockphoto.com/id/1248245938/photo/rann-festival-in-india.jpg?s=612x612&w=0&k=20&c=poKruB4X9IOXelYf9HFQZYFbndlzGoJGSkyOGortspA="
+    },
+    {
+        "city": "Himachal Pradesh",
+        "attraction_places": [
+            {"name": "Shimla", "image": "https://media.istockphoto.com/id/1224392597/photo/after-snowfall-kalka-shimla-railway-is-a-beautiful-place-in-india.jpg?s=612x612&w=0&k=20&c=_Brr2sB4Amjr2R9j2kjDcuA6b0OH6IybCd1JvcaMBkw="},
+            {"name": "Manali", "image": "https://media.istockphoto.com/id/1682328008/photo/mall-main-street-in-manali-india.jpg?s=612x612&w=0&k=20&c=Zs3GRl8dWqYezBN0FYNwps9bSEog1QzE13FhLK09fKE="},
+            {"name": "Dharamshala", "image": "https://media.istockphoto.com/id/936493150/photo/view-of-dharamshala.jpg?s=612x612&w=0&k=20&c=AzlvF3Z23m-Oc0L_9IcvJJoDVWuSHaJVUoDCuNc31dY="}
+        ],
+        "activities": [
+            "Trekking and hiking",
+            "Skiing in winter",
+            "Exploring Tibetan culture"
+        ],
+        "prices": [1700],
+        "favorable_season": "Summer, Monsoon",
+        "best_duration_of_tour": "5-6 days",
+        "cost_to_travel": "1000-8000",
+        "hotels": [
+            {"name": "The Oberoi Cecil", "image": "https://media.istockphoto.com/id/1051207584/photo/beautiful-golden-hour-and-himalayan-ranges-seen-from-hotel-room.jpg?s=612x612&w=0&k=20&c=2JhnZ2UhQTVEQx_WUzZpESbRJNjGU5GeuvayVxh63PU="},
+            {"name": "Manuallaya Resort Spa", "image": "https://media.istockphoto.com/id/471436595/photo/swimming-pool.jpg?s=612x612&w=0&k=20&c=XvQ7fHgerlxKZ9_9vLGwgnMNxjUvF1ZoESYBHO1oaLU="},
+            {"name": "Fortune Park Moksha", "image": "https://media.istockphoto.com/id/1343088602/photo/nature-park-at-macritchie-reservoir-singapore.jpg?s=612x612&w=0&k=20&c=NGE4saKPyuY5yllpEP3GQaCHZoD7W5dcq_FKaAn3PIU="}
+        ],
+        "image": "https://media.istockphoto.com/id/1284679139/photo/mountain-landscape-with-green-grass-meadows-scenic-camping-himalayas-peaks-alpine-from-the.jpg?s=612x612&w=0&k=20&c=HakKeu5JZYpVx-cEThJWXXKI3xWhbx1JIaiTXp2Q3BQ="
+    },
+    {
+        "city": "Sikkim",
+        "attraction_places": [
+            {"name": "Tsomgo Lake", "image": "https://media.istockphoto.com/id/1169378443/photo/tsomgo-lake-also-known-as-tsongmo-lake-or-changu-lake-is-a-glacial-lake-in-the-east-sikkim.jpg?s=612x612&w=0&k=20&c=CcEDYDWh6E3NgTs9ddcKJjGWV7Go7Ak9zxEcR4jkm5g="},
+            {"name": "Nathula Pass", "image": "https://media.istockphoto.com/id/1283351388/photo/himalayan-mountain-picturesque-landscape.jpg?s=612x612&w=0&k=20&c=OTckUVPUWhviHRZooUzvzRbBL6HvhOourMmczkhZ60g="},
+            {"name": "Gangtok", "image": "https://media.istockphoto.com/id/1044402406/photo/aerial-photo-of-ropeway-cable-car-gondola-ride-over-gangtok-city-during-sunset-in-sikkim-india.jpg?s=612x612&w=0&k=20&c=zZb-JHFCyY1vvaN3jCItlf70tfJoDcGLH_e1KD7BdmE="}
+        ],
+        "activities": [
+            "Trekking and sightseeing",
+            "Adventure sports",
+            "Exploring Buddhist monasteries"
+        ],
+        "prices": [1400],
+        "favorable_season": "Summer, Monsoon",
+        "best_duration_of_tour": "5-6 days",
+        "cost_to_travel": "5050 - 20000",
+        "hotels": [
+            {"name": "The Elgin Nor-Khill", "image": "https://media.istockphoto.com/id/1307563602/photo/clarendon-house-building-exterior-on-clayton-street-newcastle-upon-tyne.jpg?s=612x612&w=0&k=20&c=hiScWNAB1QAvJBSA4wZVdoaCgawgvJg7iAj9HNCiKu0="},
+            {"name": "Mayfair Spa Resort & Casino", "image": "https://media.istockphoto.com/id/533517541/photo/the-claridges-hotel-main-entrance-london.jpg?s=612x612&w=0&k=20&c=ICJ5_rg4c3VjEC3A_YaYp0q7daeKu4me6YpO3Ffx88M="},
+            {"name": "Summit Golden Crescent Resort", "image": "https://media.istockphoto.com/id/502451233/photo/grand-hotel-on-mackinac-island.jpg?s=612x612&w=0&k=20&c=kmeA96LINsL_ny8mu0HYECEm3YACG4aaMaM5zEu-sDY="}
+        ],
+        "image": "https://media.istockphoto.com/id/491447314/photo/kanchenjunga-range-peak-after-sunset-with-darjeeling-town.jpg?s=612x612&w=0&k=20&c=W4WKXtzmGrTkLZEXOxc-pw6EEOMDHYpUSmFfOJgmNYE="
+    },
+    {
+        "city": "Tamil Nadu",
+        "attraction_places": [
+            {"name": "Meenakshi Temple", "image": "https://media.istockphoto.com/id/490736905/photo/meenakshi-hindu-temple-in-madurai-tamil-nadu-south-india.jpg?s=612x612&w=0&k=20&c=OlOLvdryIdkdyKcY9gRPsM1RZa5HiP6QBr2JVAIvPb0="},
+            {"name": "Marina Beach", "image": "https://media.istockphoto.com/id/476044242/photo/sunrise-on-beach.jpg?s=612x612&w=0&k=20&c=wye8Ryn31nrmMT6DBzQ2BncW9PHvVkU7jjmUhFIdVNU="},
+            {"name": "Ooty", "image": "https://media.istockphoto.com/id/1418549083/photo/ooty-view.jpg?s=612x612&w=0&k=20&c=LdYD9ejlOAT7XKccsgR1tm6EbmVxb6sFVIyam-f_lq4="}
+        ],
+        "activities": [
+            "Visiting temples and heritage sites",
+            "Exploring hill stations",
+            "Enjoying coastal views"
+        ],
+        "prices": [1500],
+        "favorable_season": "Winter, Autumn",
+        "best_duration_of_tour": "4-5 days",
+        "cost_to_travel": "1000-10000",
+        "hotels": [
+            {"name": "Taj Coromandel", "image": "https://media.istockphoto.com/id/1299222246/photo/cathedral-cove.jpg?s=612x612&w=0&k=20&c=xHQcrUvrrcaHKlVS5em8dOGolYHoG91XW-ETA9NA8iw="},
+            {"name": "Kaldan Samudhra Palace", "image": "https://media.istockphoto.com/id/92099780/photo/temple-bay-resort-in-india.jpg?s=612x612&w=0&k=20&c=jHqzISStzgywBBhkrIGwSEP7MG72PiT1TUHlnhmXHAQ="},
+            {"name": "Sheraton Grand ", "image": "https://media.istockphoto.com/id/1473683629/photo/front-entrance-view-of-the-hotel-savera-located-in-dr-radha-krishnan-salai-mylapore-chennai.jpg?s=612x612&w=0&k=20&c=gWC6J4lgor9TK1K9No4KSA4TImMqRYeLZ8nE4f7SIKs="}
+        ],
+        "image": "https://media.istockphoto.com/id/598552784/photo/city-view-of-city-and-big-temple-in-tiruvanumalai.jpg?s=612x612&w=0&k=20&c=uu-29q6FXtzywr0h56B_nJOG-4SXwfK_nKoYCk2RIls="
+    },
+    
+    {
+        "city": "Mumbai",
+        "attraction_places": [
+            {"name": "Gateway of India", "image": "https://www.theleela.com/prod/content/assets/styles/tl_1920_735/public/aio-banner/dekstop/Gateway-of-India.jpg.webp?VersionId=BBxisw7aW9Kz83zStkv29pnD8GMbviPB&itok=MEEZTfkO"},
+            {"name": "Marine Drive", "image": "https://live.staticflickr.com/3007/2970570423_41ca7b8a3a_z.jpg"},
+            {"name": "Elephanta Caves", "image": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_694433434_20191213110339_20191213110412.png"}
+        ],
+        "activities": [
+            "Shopping at Colaba Causeway",
+            "Dining at local restaurants",
+            "Gastronomic Delights. ...",
+            "Outdoor Adventures. ..."
+        ],
+        "prices": [
+            2000
+        ],
+        "favorable_season": "Winter",
+        "best_duration_of_tour": "3-4 days",
+        "cost_to_travel": "5000-10000",
+        "hotels": [
+            {"name": "The Taj Mahal Palace", "image": "https://i.pinimg.com/236x/dd/42/4d/dd424dc56e9a52feb0b3d8cd2eaf6560.jpg"},
+            {"name": "ITC Grand Central", "image": "https://i.pinimg.com/236x/a7/28/87/a72887ca2c78d8a0e877786f185d3878.jpg"},
+            {"name": "JW Marriott Mumbai", "image": "https://i.pinimg.com/236x/aa/53/8c/aa538c37eceb1fe31e39e639fe83fb97.jpg"}
+        
+        ],
+        "image": "https://images.pexels.com/photos/5210618/pexels-photo-5210618.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "city": "Jaipur",
+        "attraction_places": [
+            {"name": "Royal heritage hub", "image": "https://i.pinimg.com/236x/10/76/d0/1076d023dcf352cbf5d6283cf248b7a9.jpg"},
+            {"name": "Jantar Mantar", "image": "https://i.pinimg.com/236x/96/3d/bd/963dbdaaaae4dc4f0864a8829e22486a.jpg"},
+            {"name": "Amber Palace", "image": "https://i.pinimg.com/236x/b2/0b/97/b20b977813320fcb9524cc8d37a3049c.jpg"}
+        ],
+        "activities": [
+            "Shopping at Johari Bazaar",
+            "Cultural heritage tours",
+            "he major tourist attraction in Jaipur",
+            "Enjoy rajasthani dish Dal Baati Churma. ..."
+
+        ],
+        "prices": [
+            1500
+        ],
+        "favorable_season": "Spring, Autumn",
+        "best_duration_of_tour": "2-3 days",
+        "cost_to_travel": "1000-10000",
+        "hotels": [
+            {"name": "Rambagh Palace", "image": "https://i.pinimg.com/236x/88/bc/35/88bc3581bf3cca3883ecf64db9d83fa8.jpg"},
+            {"name": "Trident Jaipur", "image": "https://i.pinimg.com/736x/55/04/c2/5504c2b7ded63a20159091cc948a2df8.jpg"},
+            {"name": "The Lalit Jaipur", "image": "https://i.pinimg.com/236x/26/23/05/2623056f2ad39b596830d29b8f9baed9.jpg"}       
+           
+        ],
+        "image":"https://media.istockphoto.com/id/1135820309/photo/amber-fort-and-maota-lake-jaipur-rajasthan-india.jpg?s=612x612&w=is&k=20&c=LxawOHRE9fhPhc1M8iA3kCjibpPuEUrKFNTkvKenHLk="
+    },
+    {
+        "city": "Goa",
+        "attraction_places": [
+            {"name": "Baga Beach. ...", "image": "https://i.pinimg.com/236x/09/d8/36/09d836cff4484550a75c6155888dbbba.jpg"},
+            {"name": "Calangute Beach. ...", "image": "https://i.pinimg.com/236x/79/40/c7/7940c77646007e675f508a2dc5ea499d.jpg"},
+            {"name": "Dudhsagar Waterfalls. ...", "image": "https://i.pinimg.com/564x/eb/ff/cc/ebffcc1b4b3377768cd1cef72e9a345c.jpg"}
+        ],
+        "activities": [
+            "Water sports",
+            "Beach relaxation",
+            "River Cruise. Cruise along Mandovi River. ...",
+            "Scuba diving at Netrani Island. Discover the Underwater Life. ..."
+        ],
+        "prices": [
+            2500
+        ],
+        "favorable_season": "Summer, Rainy",
+        "best_duration_of_tour": "4-5 days",
+        "cost_to_travel": "1000-7000",
+        "hotels": [
+            {"name": "Taj Exotica", "image": "https://i.pinimg.com/236x/83/bf/f5/83bff5f2552287887ee318194aa52be0.jpg"},
+            {"name": "Alila Diwa Goa", "image": "https://i.pinimg.com/236x/07/71/a4/0771a49720e214bdb17e79b9467ff64a.jpg"},
+            {"name": "W Goa", "image": "https://i.pinimg.com/236x/86/19/00/86190083240d0e10316a7d179f186f6f.jpg"}       
+
+        ],
+        "image":"https://media.istockphoto.com/id/621897226/photo/goa-beach-and-beautiful-sky-india.jpg?s=612x612&w=0&k=20&c=qDkllEUm9UpsXtfPlELdknkHMlgyT-kptQy6vAYFsM8="
+    },
+    {
+        "city": "Kolkata",
+        "attraction_places": [
+            {"name": "Victoria Memorial", "image": "https://i.pinimg.com/236x/a7/c3/9d/a7c39de0686bc65f1ab69b4861e587e5.jpg"},
+            {"name": "Howrah Bridge", "image": "https://i.pinimg.com/474x/27/0a/01/270a019b98e765af74f001989cc76de0.jpg"},
+            {"name": "Dakshineswar Kali Temple", "image": "https://i.pinimg.com/236x/3d/be/c3/3dbec394cdf911885554fcbc7331b71e.jpg"}           
+        ],
+        "activities": [
+            "Exploring local markets",
+            "Enjoying street food",
+            "visiting historical sites"
+            
+        ],
+        "prices": [
+            1000
+        ],
+        "favorable_season": "Spring, Autumn",
+        "best_duration_of_tour": "3 days",
+        "cost_to_travel": "1000-7000",
+        "hotels": [
+            {"name": "The Oberoi Grand", "image": "https://i.pinimg.com/236x/47/d5/f9/47d5f904f421464be9749bfbb5cf76d3.jpg"},
+            {"name": "ITC Sonar", "image": "https://i.pinimg.com/236x/fa/6d/2a/fa6d2a0917663040aee99fee9379a3fe.jpg"},
+            {"name": "The Westin Kolkata Rajarhat", "image": "https://i.pinimg.com/236x/e1/07/b7/e107b7967283fbdc1175806e9b5da4ab.jpg"}       
+        ],
+        "image":"https://images.pexels.com/photos/18981583/pexels-photo-18981583/free-photo-of-crowd-in-festive-night.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "city": "Benguluru",
+        "attraction_places": [
+            {"name": "Bangalore Palace", "image": "https://i.pinimg.com/236x/de/10/6e/de106e92e9037a37e0704be87a51fe1e.jpg"},
+            {"name": "Lalbagh Botanical Garden ", "image": "https://i.pinimg.com/236x/69/92/ec/6992ec3b0acd25a6fb660ef49bcefc4b.jpg"},
+            {"name": "Nandi Hills", "image": "https://i.pinimg.com/736x/7e/3b/1e/7e3b1e52c3796026c82c2c3d5a4a24b8.jpg"}           
+        ],
+        "activities": [
+            "Café hopping",
+            "Visiting tech parks",
+            "Go for a Wine Tour at the Nandi Hills. ...",
+            "Shopping at MG Road. ..."
+        ],
+        "prices": [
+            1600
+        ],
+        "favorable_season": "October to February",
+        "best_duration_of_tour": "3 days",
+        "cost_to_travel": "$800",
+        "hotels": [
+            {"name": "Taj West End", "image": "https://i.pinimg.com/236x/09/3e/5f/093e5fa4d33bde82408ad8e0836674c5.jpg"},
+            {"name": "The Leela Palace", "image": "https://i.pinimg.com/736x/e7/7a/2a/e77a2ab1ccc3fdfde121cebcc3fba011.jpg"},
+            {"name": "ITC Gardenia", "image": "https://i.pinimg.com/236x/49/84/3e/49843e9aaf31a2ff0f5383da603d86bf.jpg"}       
+        ],
+        "image":"https://media.istockphoto.com/id/166780158/photo/bangalore-city-aerial-view-with-vidhansoudha-coverd-with-trees.jpg?s=612x612&w=0&k=20&c=KHgNNJaiVD1FImKpeHO5-eFTpj0_WAwVBze3vo5CVDA="
+    },
+    {
+        "city": "Kerala",
+        "attraction_places": [
+            {"name": "Backwaters of Alleppey", "image": "https://i.pinimg.com/236x/54/a9/fa/54a9fa525c5f5cdee3fe938c98ee10ee.jpg"},
+            {"name": "Munnar Tea Gardens", "image": "https://live.staticflickr.com/3007/2970570423_41ca7b8a3a_z.jpg"},
+            {"name": "Periyar National Park", "image": "https://i.pinimg.com/736x/0c/d6/20/0cd620a4d698c879c82f67dd5f58a936.jpg"}                      
+        ],
+        "activities": [
+            "Houseboat rides",
+            "Ayurvedic treatments",
+            "Gastronomic Delights. ...",
+            "Outdoor Adventures. ..."
+        ],
+        "prices": [
+            1800
+        ],
+        "favorable_season": "September to March",
+        "best_duration_of_tour": "6-7 days",
+        "cost_to_travel": "$1200",
+        "hotels": [
+            {"name": "Kumarakom Lake Resort", "image": "https://i.pinimg.com/236x/5b/03/07/5b03073f3a79567ee00925c820f229cb.jpg"},
+            {"name": "Spice Tree Munnar", "image": "https://i.pinimg.com/236x/5c/aa/a2/5caaa219a61f1393b547a415b0ea3dc0.jpg"},
+            {"name": "The Leela Kovalam", "image": "https://i.pinimg.com/236x/89/26/46/892646f02ad6e42ad519679c6c20a08e.jpg"}       
+        ],
+        "image":"https://media.istockphoto.com/id/1215458522/photo/backwater-alley-popular-tourist-place-of-kerala-india.jpg?s=612x612&w=0&k=20&c=M5ruEC_PSe_uUCZ1I4hpHtL111vkvciUzZiwH55wGgY="
+    },
+    {
+        "city": "Udaipur",
+        "attraction_places": [
+            {"name": "City Palace", "image": "https://i.pinimg.com/236x/e8/c8/a3/e8c8a3d410ead2c7fd4b34b518097b47.jpg"},
+            {"name": "Lake Pichola", "image": "https://i.pinimg.com/236x/46/3a/a8/463aa8eb6589ce4d6cb10605f866cbf2.jpg"},
+            {"name": "Jagdish Temple", "image": "https://i.pinimg.com/236x/f1/f0/20/f1f020a0a8ee33391067331c58fb37c6.jpg"}                             
+        ],
+        "activities": [
+            "Boating on Lake Pichola",
+            "Exploring local handicrafts",
+            "Enjoy breathtaking views of the city. ",
+            "Most of Udaipur can be travelled on foot."
+
+        ],
+        "prices": [
+            1400
+        ],
+        "favorable_season": "September to March",
+        "best_duration_of_tour": "2-3 days",
+        "cost_to_travel": "$900",
+        "hotels": [
+            {"name": "The Leela Palace", "image": "https://i.pinimg.com/236x/79/7f/ae/797fae6a57a9ee7a82f469e81f965b06.jpg"},
+            {"name": "Taj Lake Palace", "image": "https://i.pinimg.com/236x/e3/63/d9/e363d990f86e167a7f96d97b74e64227.jpg"},
+            {"name": "Fateh Prakash Palace", "image": "https://i.pinimg.com/236x/95/4c/82/954c8232b13255a47a71b5d227beccef.jpg"}       
+        ],
+        "image":"https://media.istockphoto.com/id/509557770/photo/city-palace-udaipus-rajasthan.jpg?s=612x612&w=0&k=20&c=M_Oj5oid2hLOW6KuPqbXAwOeLRTiVM01w-_-ErkJYB8="
+    },
+    {
+        "city": "Rishikesh",
+        "attraction_places": [
+            {"name": "Laxman Jhula", "image": "https://i.pinimg.com/236x/30/fb/89/30fb89fd67f1740261410a86449750f1.jpg"},
+            {"name": "Triveni Ghat", "image": "https://i.pinimg.com/236x/1e/00/14/1e00143185047658067939ac9a1f65bc.jpg"},
+            {"name": "Neer Garh Waterfall", "image": "https://i.pinimg.com/236x/62/18/74/621874955cbf15d3264b52a2290e693e.jpg"}                             
+        ],
+        "activities": [
+            "Yoga and meditation",
+            "White-water rafting",
+            "Bungee Jumping Rishikesh. ",
+            "Giant Swing Rishikesh."
+        ],
+        "prices": [
+            1000
+        ],
+        "favorable_season": "March to June",
+        "best_duration_of_tour": "2-3 days",
+        "cost_to_travel": "$600",
+        "hotels": [
+            {"name": "Ananda in the Himalayas", "image": "https://i.pinimg.com/236x/79/7f/ae/797fae6a57a9ee7a82f469e81f965b06.jpg"},
+            {"name": "Aloha on the Ganges", "image": "https://i.pinimg.com/236x/e3/63/d9/e363d990f86e167a7f96d97b74e64227.jpg"},
+            {"name": "Rishikesh River Rafting Camp", "image": "https://i.pinimg.com/236x/95/4c/82/954c8232b13255a47a71b5d227beccef.jpg"}       
+        
+        ],
+        "image":"https://media.istockphoto.com/id/1150371264/photo/stunning-view-of-the-statue-of-sitting-goddess-parvati-on-the-riverbank-of-the-ganges-river.jpg?s=612x612&w=0&k=20&c=rlm3mYD5_58L4vA_XQiJY2pL5hGosxYUtQu63jAvv_Y="
+    },
+    {
+        "city": "Agra",
+        "attraction_places": [
+            {"name": "Taj Mahal", "image": "https://i.pinimg.com/236x/23/7e/48/237e483332715f8e2225fd8a5ef7a08e.jpg"},
+            {"name": "Agra Fort", "image": "https://i.pinimg.com/236x/be/30/1d/be301dd8d9db67653b619d96e8557d5d.jpg"},
+            {"name": "Mehtab Bagh", "image": "https://i.pinimg.com/236x/f4/b7/aa/f4b7aa94bf39c26f0cafeff1fe544cac.jpg"}                             
+        ],
+        "activities": [
+            "Photography",
+            "Exploring Mughal history"
+        ],
+        "prices": [
+            1500
+        ],
+        "favorable_season": "October to March",
+        "best_duration_of_tour": "1-2 days",
+        "cost_to_travel": "$500",
+        "hotels": [
+            {"name": "The Oberoi Amarvilas", "image": "https://i.pinimg.com/236x/79/7f/ae/797fae6a57a9ee7a82f469e81f965b06.jpg"},
+            {"name": "ITC Mughal", "image": "https://i.pinimg.com/236x/e3/63/d9/e363d990f86e167a7f96d97b74e64227.jpg"},
+            {"name": "Courtyard by Marriott", "image": "https://i.pinimg.com/236x/95/4c/82/954c8232b13255a47a71b5d227beccef.jpg"}       
+        
+        ],
+        "image":"https://media.istockphoto.com/id/146812172/photo/sunrise-at-taj-mahal-on-jamuna-river.jpg?s=612x612&w=0&k=20&c=SdtUfSDFuJfelsg4qatrtLvGfMSFXp8Ms5WzoZQ7RdA="
+    }
+]
+
+
+
+
+
